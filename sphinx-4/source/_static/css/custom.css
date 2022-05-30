@@ -1,0 +1,27 @@
+@import 'furo.css';
+
+
+.black{
+       
+    font-style: italic;
+}
+
+.red{
+    color: red;
+    font-weight: bold;
+}
+
+.green{
+    color: green;
+    font-weight: bold;
+}
+
+.blue{
+    color: blue;
+    font-weight: bold;
+}
+
+.orange{
+    color: orange;
+    font-weight: bold;
+}

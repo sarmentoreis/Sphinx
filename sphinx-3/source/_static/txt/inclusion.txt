@@ -1,0 +1,1 @@
+Inclusão de um arquivo TXT e convertendo para RST.
